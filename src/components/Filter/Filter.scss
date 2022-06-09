@@ -1,0 +1,20 @@
+.filterDrawer {
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.filterBtn {
+    align-self: flex-end;
+    margin-right: 10px;
+}
+.buttonContainer {
+    display: flex;
+    justify-content: end;
+}
+.totalCont {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}

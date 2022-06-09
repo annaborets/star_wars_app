@@ -1,0 +1,62 @@
+.mantine-Card-root {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.mantine-Text-root {
+    font-family: "Montserrat", sans-serif;
+    font-size: 1.2rem;
+    text-align: center;
+}
+.containerForCard {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.cardItem {
+    padding: 30px;
+    max-width: 360px;
+}
+.filterCards {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    &_item {
+        width: 100%;
+        padding: 10px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        @media (min-width: 768px) {
+            justify-content: space-between;
+        }
+    }
+}
+.cardMantine {
+    min-width: 300px;
+    border: none;
+    padding: 30px 0 10px 0;
+    background-color: rgb(194, 190, 190);
+}
+.pagination {
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+}
+.searchInput {
+    padding: 10px;
+    @media (min-width: 768px) {
+        align-self: flex-end;
+    }
+}
+
+.mantine-Button-icon {
+    margin: 0;
+}
+.noRes {
+    color: white;
+    font-size: 2rem;
+}

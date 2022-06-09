@@ -1,0 +1,95 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.mainImg {
+    width: 100%;
+    object-fit: cover;
+    height: 140px;
+    @media (min-width: 1000px) {
+        height: 280px;
+    }
+}
+.cardContainer {
+    position: relative;
+    margin: 6px;
+    margin: 0;
+}
+.mainBtn {
+    align-self: center;
+    text-align: center;
+    opacity: 60%;
+    color: black;
+    @media (min-width: 1000px) {
+        top: 80%;
+        &:hover {
+            opacity: 60%;
+            color: white;
+        }
+    }
+}
+.mainBtnCont {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 50%;
+    margin: 0;
+    text-align: center;
+    @media (min-width: 1000px) {
+        top: 70%;
+    }
+}
+.mantine-Button-label {
+    font-family: "starjedi";
+    font-size: 0.7rem;
+    @media (min-width: 768px) {
+        font-size: 1rem;
+    }
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+    &:hover {
+        color: white;
+    }
+}
+.mantine-Card-cardSection {
+    width: 100%;
+}
+.mantine-Card-root {
+    padding: 0;
+    border: 2px solid gray;
+    &:nth-child(1) {
+        border-bottom: none;
+    }
+    &:nth-child(2) {
+        border-bottom: none;
+        border-right: none;
+    }
+    &:nth-child(3) {
+        border-bottom: none;
+    }
+    &:nth-child(4) {
+        border-bottom: none;
+    }
+    &:nth-child(5) {
+        border-right: none;
+    }
+}
+.s {
+    width: 100%;
+    @media (min-width: 1000px) {
+        width: 30%;
+    }
+}
+.m {
+    width: 100%;
+    @media (min-width: 1000px) {
+        width: 70%;
+    }
+}
+.l {
+    flex-basis: 100%;
+}
