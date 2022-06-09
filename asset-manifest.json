@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/star_wars_app/static/css/main.08b453ac.css",
+    "main.js": "/star_wars_app/static/js/main.3054f33f.js",
+    "static/media/Starships.webp": "/star_wars_app/static/media/Starships.2b2b3683b19925d8c84c.webp",
+    "static/media/DarthVader.jpeg": "/star_wars_app/static/media/DarthVader.1ac937d57f86097adaf1.jpeg",
+    "static/media/Species.jpeg": "/star_wars_app/static/media/Species.e4994e86e4597573703a.jpeg",
+    "static/media/notFoundImg.jpg": "/star_wars_app/static/media/notFoundImg.65afda278465c50e2b6d.jpg",
+    "static/media/Planets.jpeg": "/star_wars_app/static/media/Planets.138057435d8e7a4c1109.jpeg",
+    "static/media/logo.png": "/star_wars_app/static/media/logo.de1cdc4eb7a8c0cc37f0.png",
+    "static/media/bg.webp": "/star_wars_app/static/media/bg.355dd8761a385b14c484.webp",
+    "static/media/Vehicles.webp": "/star_wars_app/static/media/Vehicles.07ba32ccb8f33eb96f7a.webp",
+    "static/media/Films.webp": "/star_wars_app/static/media/Films.04a91011853d4fe9b832.webp",
+    "static/media/starvader.ttf": "/star_wars_app/static/media/starvader.7708821abb6566c3ae0f.ttf",
+    "index.html": "/star_wars_app/index.html",
+    "main.08b453ac.css.map": "/star_wars_app/static/css/main.08b453ac.css.map",
+    "main.3054f33f.js.map": "/star_wars_app/static/js/main.3054f33f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08b453ac.css",
+    "static/js/main.3054f33f.js"
+  ]
+}
