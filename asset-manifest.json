@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/star_wars_app/static/css/main.08b453ac.css",
-    "main.js": "/star_wars_app/static/js/main.3054f33f.js",
+    "main.js": "/star_wars_app/static/js/main.7389c351.js",
     "static/media/Starships.webp": "/star_wars_app/static/media/Starships.2b2b3683b19925d8c84c.webp",
     "static/media/DarthVader.jpeg": "/star_wars_app/static/media/DarthVader.1ac937d57f86097adaf1.jpeg",
     "static/media/Species.jpeg": "/star_wars_app/static/media/Species.e4994e86e4597573703a.jpeg",
@@ -14,10 +14,10 @@
     "static/media/starvader.ttf": "/star_wars_app/static/media/starvader.7708821abb6566c3ae0f.ttf",
     "index.html": "/star_wars_app/index.html",
     "main.08b453ac.css.map": "/star_wars_app/static/css/main.08b453ac.css.map",
-    "main.3054f33f.js.map": "/star_wars_app/static/js/main.3054f33f.js.map"
+    "main.7389c351.js.map": "/star_wars_app/static/js/main.7389c351.js.map"
   },
   "entrypoints": [
     "static/css/main.08b453ac.css",
-    "static/js/main.3054f33f.js"
+    "static/js/main.7389c351.js"
   ]
 }
